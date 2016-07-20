@@ -1,7 +1,7 @@
 get started
 ============
 
-1. clone this repository
+1. clone this repository and go to local repository folder
 2. vagrant up
 3. browse to http://127.0.0.1 
 
